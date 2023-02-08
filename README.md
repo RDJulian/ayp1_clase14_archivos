@@ -5,7 +5,7 @@ veremos una aplicación práctica, ampliando un programa que ya escribimos, para
 
 # Presentación
 
-// enlace
+[Enlace a la presentación](https://docs.google.com/presentation/d/1uARtJxOMvpRhCPZFVv9e_kZ6kDwfE7C2mWfHfylfr-w/edit?usp=sharing)
 
 # Ejercicio
 
