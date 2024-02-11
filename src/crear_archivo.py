@@ -1,6 +1,6 @@
 # Escritura y creacion del archivo.
 archivo = open("archivo.txt", "w")
-archivo.write(f"Hola mundo jaja.\n")
+archivo.write(f"Hola mundo!\n")
 archivo.close()
 
 # Modificacion del archivo, agregando una linea al final.
